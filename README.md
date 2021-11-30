@@ -1,3 +1,5 @@
+Fully interactibe Instagram clone. In order for the picture images to display in stories at top of page, the site needs to be hosted on an external hosting websites as error 522 appears. You can add an image with a logo where the circle plus button on top right hand page, click on the like (heart) button, post a comment and displays the time besides it. It has a fully interactive sign in with google feature and faker js pulls random names and where they work on the right hand page. Everything else is for display purposes.
+This can be opened up in visual studio code and using npm run dev to open it open in a browsing website
 
 ![image](https://user-images.githubusercontent.com/55191791/144052811-950944ec-c5ae-4094-8b4a-6c8e274a77bc.png)
 

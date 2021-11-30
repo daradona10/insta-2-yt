@@ -1,6 +1,6 @@
-import faker from "faker";
-import { useEffect, useState } from "react";
 import Story from "./Story";
+import { useEffect, useState } from "react";
+import faker from "faker";
 import { useSession } from "next-auth/react";
 
 function Stories() {
